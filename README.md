@@ -1,0 +1,2 @@
+# Generative-AI-with-Langchain-and-Huggingface
+ This repository offers a structured, hands-on journey into Generative AI, covering both foundational and advanced concepts. Curated from comprehensive resources, it provides a practical approach to building, deploying, and optimizing AI models using Langchain and Huggingface. Whether you're an AI enthusiast, developer, or professional, this course equips you with essential skills to master Generative AI.
