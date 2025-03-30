@@ -166,3 +166,6 @@ cell_images/
 # Models
 *.pt
 *.keras
+
+# Vector Databases
+faiss_index/
