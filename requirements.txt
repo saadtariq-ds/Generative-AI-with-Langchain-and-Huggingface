@@ -20,6 +20,7 @@ langchain-ollama==0.3.0
 langchain-chroma==0.2.2
 langchain-openai==0.3.9
 langchain-community==0.3.20
+langchain-groq==0.3.1
 pypdf==5.4.0
 bs4==0.0.2
 arxiv==2.1.3
