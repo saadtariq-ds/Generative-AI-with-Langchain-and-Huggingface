@@ -33,3 +33,4 @@ sentence-transformers==4.0.1
 fastapi==0.115.12
 uvicorn==0.34.0
 sse-starlette==0.10.0
+duckduckgo-search==2025.4.4
