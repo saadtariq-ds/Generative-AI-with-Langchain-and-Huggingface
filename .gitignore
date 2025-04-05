@@ -170,3 +170,6 @@ cell_images/
 # Vector Databases
 faiss_index/
 chroma_db/
+
+# Databases
+*.db
