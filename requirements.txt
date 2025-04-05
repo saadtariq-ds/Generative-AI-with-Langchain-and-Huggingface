@@ -35,3 +35,4 @@ uvicorn==0.34.0
 sse-starlette==0.10.0
 duckduckgo-search==2025.4.4
 jax==0.5.3
+mysql-connector-python==9.2.0
