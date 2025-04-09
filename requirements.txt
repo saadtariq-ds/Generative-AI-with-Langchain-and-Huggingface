@@ -36,3 +36,12 @@ sse-starlette==0.10.0
 duckduckgo-search==2025.4.4
 jax==0.5.3
 mysql-connector-python==9.2.0
+validators==0.34.0
+youtube-transcript-api==1.0.3
+datasets==3.5.0
+evaluate==0.4.3
+optimum==1.24.0
+onnx==1.17.0
+unstructured==0.17.2
+pytube==15.0.0
+yt-dlp==2025.3.31
