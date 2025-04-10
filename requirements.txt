@@ -45,3 +45,4 @@ onnx==1.17.0
 unstructured==0.17.2
 pytube==15.0.0
 yt-dlp==2025.3.31
+numexpr==2.10.2
