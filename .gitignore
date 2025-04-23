@@ -173,3 +173,4 @@ chroma_db/
 
 # Databases
 *.db
+*/db
