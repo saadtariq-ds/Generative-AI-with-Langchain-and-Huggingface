@@ -61,3 +61,8 @@ pinecone-client==6.0.0
 pinecone-text==0.10.0
 pinecone-notebooks
 neo4j==5.28.1
+keras-nlp==0.20.0
+keras>=3
+transformers==4.51.3
+bitsandbytes==0.45.5
+accelerate==1.7.0
