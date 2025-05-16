@@ -66,3 +66,4 @@ keras>=3
 transformers==4.51.3
 bitsandbytes==0.45.5
 accelerate==1.7.0
+lamini==3.4.6
